@@ -1,4 +1,9 @@
-# Ilya Budkov
+<h1>
+    <div style="display: flex; align-items: center;justify-content: flex-start; gap:20px;">
+        <img src="https://avatars.githubusercontent.com/u/40955392?v=4" width="100px" style="border-radius: 50px" alt="img">
+        Ilya Budkov
+    </div>
+</h1>
 
 ## Contacts: [![TG](https://img.shields.io/badge/Telegram-gray?logo=telegram&style=flat)](https://t.me/Ilya_93B) [![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github&style=flat)](https://github.com/AndroidEl93) [![GMail](https://img.shields.io/badge/GMail-gray?logo=gmail&style=flat)](mailto:androidel93@gmail.com)
 
